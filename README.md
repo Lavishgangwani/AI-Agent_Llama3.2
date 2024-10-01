@@ -6,7 +6,7 @@ Welcome to the **Llama 3.2 Chatbot**! This web app integrates the GroqCloud API 
 
 🌐 **Live App**: [Llama 3.2 Chatbot - Streamlit](https://lavishgw22.streamlit.app)
 
-![](assest/screenshot.png)
+![](assest/Screenshot 2024-09-30 at 9.41.20 PM.png)
 *Screenshot of the Llama 3.2 Chatbot in action*
 
 --- 
