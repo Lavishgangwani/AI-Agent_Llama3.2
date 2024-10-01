@@ -1,16 +1,13 @@
----
-
 # Llama 3.2 Chatbot - Powered by GroqCloud API
 
 Welcome to the **Llama 3.2 Chatbot**! This web app integrates the GroqCloud API with the Llama 3.2 3B language model to create an interactive chatbot experience. You can ask questions or have conversations with the chatbot in real time, leveraging the capabilities of advanced AI technology.
 
 🌐 **Live App**: [Llama 3.2 Chatbot - Streamlit](https://lavishgw22.streamlit.app)
 
-![](assest/Screenshot 2024-09-30 at 9.41.20 PM.png)
+![Llama 3.2 Chatbot Screenshot](assets/Screenshot%202024-09-30%20at%209.41.20%20PM.png)
 *Screenshot of the Llama 3.2 Chatbot in action*
 
---- 
-
+---
 
 ## ✨ Features
 - **Conversational AI**: Powered by the **Llama 3.2 3B** model, capable of generating intelligent, human-like responses.
@@ -90,4 +87,3 @@ Feel free to reach out at: lavishgangwani22@gmail.com
 - **GitHub Repository**: [GitHub - Llama 3.2 Chatbot](https://github.com/Lavishgangwani/AI-Agent_Llama3.2)
 - **GroqCloud API**: [GroqCloud API Documentation](https://www.groqcloud.com/api-docs)
 - **Streamlit Documentation**: [Streamlit Docs](https://docs.streamlit.io/)
-
